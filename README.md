@@ -35,8 +35,6 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 - [MongoDb](https://mongoosejs.com/)
 - [expressJs](https://expressjs.com/)
 
-## Author
-
-- LinkedIn - [Aniket Mujbaile](https://www.linkedin.com/in/aniket-mujbaile-742b05157/)
+ 
 
  
