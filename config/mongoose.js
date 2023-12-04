@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 // connect to the database
-mongoose.connect(`mongodb+srv://aniketmujbaile1:7yJF2rAPUoDenbZC@cluster0.opfxi9d.mongodb.net/`);
+mongoose.connect(`mongodb+srv://aniketmujbaile1:7yJF2rAPUoDenbZC@cluster0.opfxi9d.mongodb.net/?retryWrites=true&w=majority`);
 //mongoose.connect('mongodb://localhost/todo_list_db');
 
 // aquire the connection (to check if it is successful)
